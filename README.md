@@ -3,9 +3,11 @@
 
 #### Machine Vision
 
+- Hong, Yuting, Yongkang Wu, Hui Xiao, Huazheng Hao, Xiaojie Qiu, Baochen Yao, and Chengbin Peng. "Exploiting Minority Pseudo-Labels for Semi-Supervised Fine-Grained Road Scene Understanding." IEEE Transactions on Intelligent Transportation Systems (2026). [[code]](https://github.com/ybc-ybc/JoPro](https://github.com/Amos1109/STPG)
+
 - Yao, B., Zhang, D., Zhao, J., Zheng, Y., Peng, C.* “Active Learning with Joint Probabilistic Modeling for Point Cloud Semantic Segmentation.” *Knowledge-Based Systems* (2025): 114171. [[code]](https://github.com/ybc-ybc/JoPro)
 
-- Zewei Wu, Chengbin Peng*. “Few-shot image classification for defect detection in aviation materials.” *Measurement* (2025): 117749.
+- Zewei Wu, Chengbin Peng*. “Few-shot image classification for defect detection in aviation materials.” *Measurement* (2025): 117749. [[code]](https://github.com/zhixpc/SEFNet](https://github.com/zrjz2020/AFDN)
 
 - Pengcheng Xiang, Baochen Yao, Zefeng Jiang, Chengbin Peng*. “Self-Enhanced Feature Fusion for RGB-D Semantic Segmentation.” *IEEE Signal Processing Letters* (2024). [[code]](https://github.com/zhixpc/SEFNet)
 
