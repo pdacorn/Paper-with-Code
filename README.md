@@ -83,7 +83,7 @@
 
 #### Other Topics
 
-- M Zhang*, C Peng*, Y Zhao, Y Hong, G Zhu, S Ying, B Zhang, X Ren, J Zhu, J Zheng, Z Yu, Y Chen, S ZhengZhang, Mengna, et al. “A precise surgical planning system for hepatectomy coupled with liver tissue in the hepato-portal vein territories.” *Quantitative Imaging in Medicine and Surgery* 15.5 (2025): 3839.
+- M Zhang*, C Peng*, Y Zhao, Y Hong, G Zhu, S Ying, B Zhang, X Ren, J Zhu, J Zheng, Z Yu, Y Chen, S ZhengZhang, Mengna, et al. “A precise surgical planning system for hepatectomy coupled with liver tissue in the hepato-portal vein territories.” *Quantitative Imaging in Medicine and Surgery* 15.5 (2025): 3839. [[code]](https://github.com/Amos1109/hepeatectomy)
 
 - L Wang, R Chen, J Weng, H Li, S Ying, J Zhang, Z Yu, C Peng*, S Zheng*. “Detecting and localizing cervical lesions in colposcopic images with deep semantic feature mining.” *Frontiers in Oncology* 14 (2024): 1423782. [[code]](https://github.com/myprospection/DepDec)
 
