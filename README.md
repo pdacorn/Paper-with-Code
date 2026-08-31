@@ -1,6 +1,6 @@
 # Paper-with-Code
 
-(some updates may be found here: https://chengbinpeng.link/selected-publications/)
+(some updates may be found [[here]]([https://github.com/ybc-ybc/JoPro](https://chengbinpeng.link/selected-publications/))).
 
 #### Machine Vision
 
